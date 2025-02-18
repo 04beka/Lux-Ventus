@@ -468,3 +468,154 @@ section{
     font-weight: 700;
 }
 /* end */
+
+
+/* სექცია 4 */
+
+.section4{
+    width: 100%;
+    height: 850px;
+    display: flex;
+    flex-direction: column;
+
+
+}
+
+.card1{
+    width: 100%;
+    height: 780px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 60px;
+    flex-wrap: wrap;
+}
+
+.left{
+    width: 579px;
+    height: 630px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+}
+.left-img{
+    width: 100%;
+    height: 278px;
+    background-image: url(../images/left-img.png);
+    background-position: center;
+    object-fit: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.sec4-satauri{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+.sec4-n1{
+    width: 50%;
+    height: 90px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 10px;
+    padding-left: 30px;
+}
+
+.sec4-satauri span{
+    color: gray;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.sec4-satauri h3{
+    color: rgba(242, 94, 94, 1);
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+}
+.sec4-n2{
+    width: 50%;
+    height: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.left-txt{
+    width: 100%;
+    height: auto;
+    padding-left: 30px;
+}
+.left-txt h1{
+    font-size: 26px;
+    color: black;
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+}
+.left-txt p{
+    font-size: 16px;
+    color: black;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+}
+.left-txt span{
+    font-size: 12px;
+    color: rgba(139, 169, 244, 1);
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+}
+.right{
+    width: 579px;
+    height: 630px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+}
+.right-img{
+    width: 100%;
+    height: 278px;
+    background-image: url(../images/right-img.png);
+    background-position: center;
+    object-fit: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.satauri2{
+    width: 330px;
+    height: 100px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: end;
+    padding-right: 20px;
+}
+
+.satauri2 h1{
+    font-size: 32px;
+    color: black;
+    font-weight: 700px;
+    font-family: "Poppins", sans-serif;
+}
+.sec4-fashion{
+    width: 175px;
+    height: 36px;
+    border-radius: 20px;
+    border: none;
+    outline: none;
+    background: rgba(38, 38, 38, 1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    left: 40px;
+    top: 20px;
+}
+
+.sec4-fashion span{
+    color: rgba(255, 255, 255, 1);
+    font-family: "Poppins",sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+}
+/* end */
