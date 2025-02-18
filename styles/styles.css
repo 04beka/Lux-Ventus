@@ -467,6 +467,11 @@ section{
     font-family: "Poppins", sans-serif;
     font-weight: 700;
 }
+
+
+.sec3-txt span i {
+    margin-right: 10px;
+ }
 /* end */
 
 
@@ -567,6 +572,14 @@ section{
     font-family: "Poppins", sans-serif;
     font-weight: 700;
 }
+
+.left-txt span i {
+    margin-right: 10px;
+ }
+ .right-txt span i {
+    margin-right: 10px;
+ }
+
 .right{
     width: 579px;
     height: 630px;
@@ -618,6 +631,11 @@ section{
     font-size: 12px;
     font-weight: 700;
 }
+
+.rightinfo-txt i {
+    margin-right: 10px;
+ }
+
 /* end */
 /* სექცია 5 */
 
